@@ -58,9 +58,7 @@
       "startDate": "2019-09",
       "endDate": "2020-08",
       "summary": "Developed and maintained highly critical tax-related services used across Amazon.",
-      "highlights": [
-        "Owned full software lifecycle with emphasis on continuous deployment, performance, scalability, and availability."
-      ]
+      "highlights": ["Owned full software lifecycle with emphasis on continuous deployment, performance, scalability, and availability."]
     },
     {
       "name": "University of Toronto, Department of Physics (ATLAS group)",
@@ -77,10 +75,7 @@
       "startDate": "2018-05",
       "endDate": "2018-08",
       "summary": "Full stack development for Thoughtexchange app.",
-      "highlights": [
-        "Implemented an NLP algorithm to sort users.",
-        "Built APIs to support moderation and phone number authentication."
-      ]
+      "highlights": ["Implemented an NLP algorithm to sort users.", "Built APIs to support moderation and phone number authentication."]
     },
     {
       "name": "Thoughtexchange",
@@ -97,7 +92,7 @@
       "startDate": "2017-01",
       "endDate": "2017-08",
       "summary": "Analyzed gamma-ray spectra to evaluate nuclear structure in a Coulomb excitation experiment.",
-      "highlights": [ "Calibrated detectors and supervised experimental shifts." ]
+      "highlights": ["Calibrated detectors and supervised experimental shifts."]
     }
   ],
   "publications": [
@@ -243,15 +238,15 @@
   "skills": [
     {
       "name": "Machine Learning",
-      "keywords": [ "Graph Neural Networks", "Generative Modeling", "3D Equivariant GNNs", "Diffusion Models", "Flow Matching" ]
+      "keywords": ["Graph Neural Networks", "Generative Modeling", "3D Equivariant GNNs", "Diffusion Models", "Flow Matching"]
     },
     {
       "name": "Research Domains",
-      "keywords": [ "Materials Discovery", "Crystallography", "Drug Discovery", "Physics Simulations" ]
+      "keywords": ["Materials Discovery", "Crystallography", "Drug Discovery", "Physics Simulations"]
     },
     {
       "name": "Programming",
-      "keywords": [ "Python", "PyTorch", "Java", "JavaScript", "C++", "Pandas", "NumPy" ]
+      "keywords": ["Python", "PyTorch", "Java", "JavaScript", "C++", "Pandas", "NumPy"]
     }
   ],
   "volunteer": [
