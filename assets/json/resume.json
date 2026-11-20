@@ -45,6 +45,13 @@
   ],
   "work": [
     {
+      "name": "Lila Sciences",
+      "location": "Cambridge, MA",
+      "position": "Graduate Research Intern, Machine Learning for Materials",
+      "startDate": "2026-06",
+      "endDate": "2026-09"
+    },
+    {
       "name": "Amazon",
       "location": "Vancouver, BC",
       "position": "Software Development Engineer",
